@@ -5,13 +5,13 @@ _G.Setting = {
         ['Helper'] = "liquidfirza", -- Helper / ???????
         ['Helper2'] = "toffolinimz", -- Helper2 / ???????????? 2
         ['Farm'] = { -- Farming V4 / ??????????????? V4
-            "vitrastuzh",
-            "mioraxk",
-            "burnaxell"
+            "glaciaresu2",
+            "mekhailqh",
+            "coincharrua7e"
         } 
     },
     -- Booster
-    ['White Screen'] = true, 
+    ['White Screen'] = false, 
     ['FPS Booster'] = true 
 }
 
